@@ -10,13 +10,8 @@ public class Main {
         String cmd = reader.readLine();
 
         System.out.println(cmd + ":");
-
-        for (int i = 0; i < Suits.values().length; i++) {
-            String name = Suits.values()[i].toString();
-            int value = Suits.valueOf(name).getValue();
-
-            System.out.println(String.format("Ordinal value: %d; Name value: %s",value,name));
-
+        for (Suits value : Suits.values()) {
+            System.out.println(String.format("Ordinal value: %d; Name value: %s", value.ordinal(), value.name()));
         }
     }
 }

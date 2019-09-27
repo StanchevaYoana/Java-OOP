@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c462948-0a44-4b4d-844a-fc77cbff1117" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/TrafficLights/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/TrafficLights/TrafficLight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Working with Abstraction - Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/CardSuit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/CardSuit/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -332,7 +329,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16577181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
