@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c462948-0a44-4b4d-844a-fc77cbff1117" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/CardRank/CardRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/CardRank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/CardsWithPower/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/CardsWithPower/CardRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/CardsWithPower/CardSuits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/src/CardsWithPower/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Working with Abstraction - Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Working with Abstraction - Exercise/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
