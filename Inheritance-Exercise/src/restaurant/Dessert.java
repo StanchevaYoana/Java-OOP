@@ -3,8 +3,7 @@ package restaurant;
 import java.math.BigDecimal;
 
 public class Dessert extends Food {
-
-    private  double calories;
+    private double calories;
 
     public Dessert(String name, BigDecimal price, double grams, double calories) {
         super(name, price, grams);
@@ -12,6 +11,6 @@ public class Dessert extends Food {
     }
 
     public double getCalories() {
-        return calories;
+        return this.calories;
     }
 }

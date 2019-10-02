@@ -3,11 +3,10 @@ package restaurant;
 public class Main {
     public static void main(String[] args) {
 
-        Cake cake = new Cake("Space Cake");
+       Coffee coffee = new Coffee("Lavazza", 1.2);
+        System.out.println(coffee.getCaffeine());
+        System.out.println(coffee.getMillimeters());
+        System.out.println(coffee.getName());
 
-        System.out.println(cake.getName());
-        System.out.println(cake.getPrice());
-        System.out.println(cake.getGrams());
-        System.out.println(cake.getCalories());
     }
 }
