@@ -4,15 +4,14 @@ package restaurant;
 import java.math.BigDecimal;
 
 public class Beverage extends Product {
-    private double millimeters;
+    private double milliliters;
 
-    public Beverage(String name, BigDecimal price, double millimeters) {
+    public Beverage(String name, BigDecimal price, double milliliters) {
         super(name, price);
-        this.millimeters = millimeters;
+        this.milliliters = milliliters;
     }
 
-
-    public double getMillimeters() {
-        return this.millimeters;
+    public double getMilliliters() {
+        return this.milliliters;
     }
 }

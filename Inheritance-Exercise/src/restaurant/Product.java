@@ -12,10 +12,10 @@ public class Product {
     }
 
     public String getName() {
-        return this.name;
+        return name;
     }
 
     public BigDecimal getPrice() {
-        return this.price;
+        return price;
     }
 }
