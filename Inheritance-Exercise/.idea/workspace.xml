@@ -5,16 +5,6 @@
       <change afterPath="$PROJECT_DIR$/../Encapsulation - Exercises/src/FootballTeamGenerator/Player.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Encapsulation - Exercises/src/FootballTeamGenerator/Team.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Encapsulation - Exercises/src/FootballTeamGenerator/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/BladeKnight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/DarkKnight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/DarkWizard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/Elf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/Knight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/MuseElf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/SoulMaster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayersAndMonsters/hero/Wizard.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/hero/Wizard.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#153#154#0" expanded="true" />
@@ -384,7 +374,7 @@
       <workItem from="1569919974021" duration="13618000" />
       <workItem from="1569938699962" duration="1532000" />
       <workItem from="1570002554667" duration="14641000" />
-      <workItem from="1570193572612" duration="1140000" />
+      <workItem from="1570193572612" duration="1323000" />
     </task>
     <task id="LOCAL-00001" summary="Add task - Zoo .">
       <created>1569922517789</created>
@@ -470,11 +460,25 @@
       <option name="project" value="LOCAL" />
       <updated>1570017903537</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Rearrange task .">
+      <created>1570194738298</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570194738298</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Rearrange task .">
+      <created>1570194827495</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570194827495</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30931000" />
+    <option name="totallyTimeSpent" value="31114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -488,13 +492,13 @@
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.12214765" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="1" sideWeight="0.49932885" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.504698" side_tool="true" visible="true" weight="0.31303117" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49530202" visible="true" weight="0.31303117" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49530202" weight="0.31303117" />
       <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49530202" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -551,7 +555,8 @@
     <MESSAGE value="Add task - Animals ." />
     <MESSAGE value="Rearrange tasks ." />
     <MESSAGE value="Add task from OOP-Archive ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task from OOP-Archive ." />
+    <MESSAGE value="Rearrange task ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rearrange task ." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -934,7 +939,7 @@
     <entry file="file://$PROJECT_DIR$/src/hero/Wizard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#153#154#0" expanded="true" />
