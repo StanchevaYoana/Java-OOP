@@ -1,6 +1,8 @@
 package FootballTeamGenerator;
 
-public class Validator {
+import java.io.Serializable;
+
+public class Validator implements Serializable {
 
     public static void validateName(String name){
         if (name == null || name.trim().isEmpty()){
