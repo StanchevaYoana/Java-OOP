@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a004d93-68e1-4b70-a1f8-aea9582b8a6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FootballTeamGenerator/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FootballTeamGenerator/Validator.java" afterDir="false" />
-    </list>
+    <list default="true" id="8a004d93-68e1-4b70-a1f8-aea9582b8a6f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FootballTeamGenerator/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -243,7 +240,7 @@
       <workItem from="1570101872802" duration="10272000" />
       <workItem from="1570183936509" duration="13440000" />
       <workItem from="1570277113923" duration="672000" />
-      <workItem from="1570349199908" duration="563000" />
+      <workItem from="1570349199908" duration="725000" />
     </task>
     <task id="LOCAL-00001" summary="Add task - Class box .">
       <created>1570103338545</created>
@@ -287,15 +284,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570197382557</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Rearrange tasks .">
+      <created>1570372651247</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570372651247</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24947000" />
+    <option name="totallyTimeSpent" value="25109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19865772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -369,7 +372,8 @@
     <MESSAGE value="Add task - Pizza calories ." />
     <MESSAGE value="Rearrange task ." />
     <MESSAGE value="Add task - Football team generator ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task - Football team generator ." />
+    <MESSAGE value="Rearrange tasks ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rearrange tasks ." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -648,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FootballTeamGenerator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
