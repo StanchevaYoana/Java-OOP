@@ -1,9 +1,5 @@
 package vehicles;
 
-import vehicles.Car;
-import vehicles.Truck;
-import vehicles.Vehicles;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
